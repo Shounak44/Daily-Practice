@@ -1,0 +1,6 @@
+number1 = int(input("Your first number is ="))
+number2 = int(input("Your second number is ="))
+print(f"the addition of these two number is {number1 + number2}")
+print(f"the subtraction of these two number is {number1 - number2}")
+print(f"the multiplication of these two number is {number1 * number2}")
+print(f"the division of these two number is {number1 / number2}")
